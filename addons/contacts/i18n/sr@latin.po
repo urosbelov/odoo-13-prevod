@@ -1,0 +1,94 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* contacts
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0-20181122\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-23 01:06+0000\n"
+"PO-Revision-Date: 2018-11-26 17:30+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: sr@latin\n"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_action_res_partner_bank_form
+#: model:ir.ui.menu,name:contacts.menu_config_bank_accounts
+msgid "Bank Accounts"
+msgstr "Žiro računi"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_action_res_bank_form
+msgid "Banks"
+msgstr "Banke"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.res_partner_menu_config
+msgid "Configuration"
+msgstr "Podešavanja"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_partner_category_form
+msgid "Contact Tags"
+msgstr "Oznake kontakta"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_partner_title_contact
+msgid "Contact Titles"
+msgstr "Naslovi kontakta"
+
+#. module: contacts
+#: model:ir.actions.act_window,name:contacts.action_contacts
+#: model:ir.actions.act_window,name:contacts.action_contacts_summary
+#: model:ir.ui.menu,name:contacts.menu_contacts
+#: model:ir.ui.menu,name:contacts.res_partner_menu_contacts
+msgid "Contacts"
+msgstr "Kontakti"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_country_partner
+msgid "Countries"
+msgstr "Država"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_country_group
+msgid "Country Group"
+msgstr "Grupe država"
+
+#. module: contacts
+#: model_terms:ir.actions.act_window,help:contacts.action_contacts
+#: model_terms:ir.actions.act_window,help:contacts.action_contacts_summary
+msgid "Create a contact in your address book"
+msgstr "Kreirajte kontakt u Vašem adresaru"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_country_state_partner
+msgid "Fed. States"
+msgstr "Federalne države"
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.menu_localisation
+msgid "Localization"
+msgstr "Lokalizacija"
+
+#. module: contacts
+#: model_terms:ir.actions.act_window,help:contacts.action_contacts
+#: model_terms:ir.actions.act_window,help:contacts.action_contacts_summary
+msgid "Odoo helps you to easily track all activities related to a customer."
+msgstr "Pomažemo Vam da lako pratite sve aktivnosti u vezi sa kupcem."
+
+#. module: contacts
+#: model:ir.ui.menu,name:contacts.res_partner_industry_menu
+msgid "Sectors of Activity"
+msgstr "Sektori aktivnosti"
+
+#. module: contacts
+#: model:ir.model,name:contacts.model_res_users
+msgid "Users"
+msgstr "Korisnici"
